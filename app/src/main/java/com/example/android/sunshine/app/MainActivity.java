@@ -135,6 +135,6 @@ public class MainActivity extends ActionBarActivity implements ForecastFragment.
     }
 
     //added some changes
-
+    //new changes
 
 }
